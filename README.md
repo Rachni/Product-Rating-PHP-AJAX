@@ -1,6 +1,6 @@
-# Rating Application 📊
+# Product-Rating-PHP-AJAX
 
-Welcome to the **Rating Application**! This project allows users to rate products asynchronously, making use of **PHP**, **JavaScript**, **Axios**, and **MySQL**.
+Welcome! This project allows users to rate products asynchronously, making use of **PHP**, **JavaScript**, **Axios**, and **MySQL**.
 
 [Versión en Español](#versión-en-español)
 

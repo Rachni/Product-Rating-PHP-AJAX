@@ -3,7 +3,9 @@
 Welcome! This project allows users to rate products asynchronously, making use of **PHP**, **JavaScript**, **Axios**, and **MySQL**.
 
 [Versión en Español](#versión-en-español)
+
 ## DEMO COMING SOON
+
 ## 🚀 Introduction
 
 The goal of this project is to create a rating application using asynchronous programming. The application includes the following features:
@@ -77,7 +79,6 @@ To run this project locally, follow these steps:
 - **User Registration**: Users can register by providing their details via a form.
 - **Login**: Users can log in with their credentials and access the rating page.
 - **Product Ratings**: Users can view a list of products and submit ratings via a star system. Ratings are submitted asynchronously and are updated in real-time without needing to reload the page.
-
 
 ## 📄 License
 
@@ -161,8 +162,8 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 - **Inicio de sesión**: Los usuarios pueden iniciar sesión con sus credenciales y acceder a la página de valoraciones.
 - **Valoraciones de productos**: Los usuarios pueden ver una lista de productos y enviar valoraciones mediante un sistema de estrellas. Las valoraciones se envían de forma asíncrona y se actualizan en tiempo real sin necesidad de recargar la página.
 
-
 ## Licencia
 
 Este proyecto está bajo la licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+
 
